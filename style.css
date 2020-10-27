@@ -1,0 +1,129 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@700;800;900&display=swap');
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    border: 0.05px solid gray;
+    margin-bottom: 5px;
+}
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.padding{
+   padding: 10px 0px 8px;
+    
+}
+.block_menu{
+    font: 11px "Fira Sans", sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+
+}
+.for_a{
+    color: #1A1A1A;
+    font-weight: 600;
+    text-decoration: none;
+    margin: 0 12px;
+    height: 11px;
+}
+
+.center_menu{
+    justify-content: space-between;
+    height: 100px;
+    background-color: #7e0019;
+}
+.left_menu{
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+
+ .left_menu img{
+     height: 26px;
+     width: 24px;
+ }
+
+ .style_span{
+     font: 12px "Fira Sans", sans-serif;
+     color: #ffffff;
+ }
+
+ .center_span{
+     color: #ffffff;
+     font: 35px "Fira Sans", sans-serif;
+     margin-bottom: 10px;
+}
+.cent_menu {
+    text-align: center;
+}
+ 
+.right_menu{
+     padding-right: 10px;
+ }
+
+.right_button{
+     border-radius: 20px;
+     width: 75px;
+     height: 30px;
+     background-color:#B30C1D;
+     color: #ffffff;
+     border: 2px solid white;
+}
+ 
+h5{
+    margin: 1px 0px ;
+    font: 12px "Fira Sans", sans-serif;
+    color: #ffffff;
+}
+
+.block_menu_bottom a{
+    font: 14px "Fira Sans", sans-serif;
+ }
+
+.main{
+    margin-top: 15px;
+}
+         
+.main_boxes{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+ .one{
+    font: 11px "Fira Sans", sans-serif;
+    font-weight: 600;
+    border: 0.5px solid gray;
+    width: 290px;
+    height: 95px;
+}
+.one img{
+    height: 30px;
+    width: 100px;
+}
+.span_one{
+    font: 45px "Fira Sans", sans-serif;
+    
+}
+
+.div_flor {
+    font: 16px "Fira Sans", sans-serif;
+    color: #7e0019;
+}
+ 
+.covid{
+    padding-left: 8px;
+}
+     
+     
+ 
+
+
+
+
